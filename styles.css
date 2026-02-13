@@ -6,3 +6,9 @@ div{
   transform: scale(3);
   margin: 50px auto;
 }
+
+body{
+  display: flex;
+  aling-items: center;
+  flex-direction: columm;
+}
