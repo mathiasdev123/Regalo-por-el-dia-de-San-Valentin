@@ -10,5 +10,5 @@ div{
 body{
   display: flex;
   aling-items: center;
-  flex-direction: columm;
+  flex-direction: column;
 }
