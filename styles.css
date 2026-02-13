@@ -3,7 +3,6 @@ div{
   height: 100px;
   background-color: #ff4d4d;
   clip-path: polygon(50% 15%, 61% 2%, 80% 2%, 95% 15%, 95% 40%, 50% 95%, 5% 40%, 5% 15%, 20% 2%, 39% 2%);
-  transform: scale(5);
   margin: 100px 0;
 }
 
