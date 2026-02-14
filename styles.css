@@ -16,6 +16,7 @@ body{
   font-family: sans-serif;
   justify-content: center;
   min-height: 100vh;
+  background-color: #ffe6e6;
 }
 
 @keyframes aparecer {
